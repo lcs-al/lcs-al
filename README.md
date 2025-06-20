@@ -4,7 +4,7 @@
 
 <h4>A full-stack developer with 5+ years of experience building web applications that are fast, scalable, and user-focused.
 
-I specialize in modern web development using VueJS, Ruby on Rails, Elixir, JavaScript, and TypeScript — with strong experience integrating backend systems with tools like RabbitMQ, PostgreSQL, and MongoDB.
+I specialize in modern web development using VueJS, Ruby on Rails, JavaScript, and TypeScript with strong experience integrating backend systems with tools like RabbitMQ, PostgreSQL, and MongoDB.
 
 I’m passionate about solving real-world problems through code, automating processes, and constantly improving software quality through clean code practices, testing, and design patterns. My journey in tech started in 2018, and since then, I’ve been driven by the excitement of learning and applying new technologies to create meaningful and practical solutions.
 
