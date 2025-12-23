@@ -1,4 +1,4 @@
-[![Header](https://i.imgur.com/DKb0eYj.png "Header")](https://github.com/lucache-dev)
+[![Header](https://i.imgur.com/DKb0eYj.png "Header")](https://github.com/lcs-al)
 
 <h2>Hi There, i'm Lucas 👋</h2><br/> <img src="https://i.imgur.com/CTBjMmu.png" min-width="250px" max-width="250px" width="250px" align="right" alt="Lucas Img"> 
 
@@ -16,9 +16,9 @@ Feel free to reach out — whether you’re curious about my projects or just wa
 
 ## 📈 My GitHub Activity
 <div align="start">
-  <a href="https://github.com/lucache-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucache-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucache-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/lcs-al">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-al&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-al&layout=compact&langs_count=7&theme=dracula"/>
 </div><br/>
 
 
@@ -49,5 +49,5 @@ Feel free to reach out — whether you’re curious about my projects or just wa
 
 
 ## Get in touch:
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucache/)
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcs-al/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucache.dev/)
