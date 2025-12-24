@@ -17,8 +17,6 @@ Feel free to reach out — whether you’re curious about my projects or just wa
 ## 📈 My GitHub Activity
 <div align="start">
   <a href="https://github.com/lcs-al">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lcs-al&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcs-al&layout=compact&langs_count=7&theme=dracula"/>
 </div><br/>
 
 
